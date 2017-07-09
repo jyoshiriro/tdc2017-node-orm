@@ -1,0 +1,19 @@
+{
+  "name": "tdc2017_nodeorm_relational_sequelize",
+  "version": "0.0.1",
+  "description": "Projeto de demonstração de Sequelize para acesso a bancos relacionais para o TDC SP 2017",
+  "main": "conexao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyoshiriro/tdc2017-node-orm-sequelize.git"
+  },
+  "author": "José Yoshiriro",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jyoshiriro/tdc2017-node-orm-sequelize/issues"
+  },
+  "homepage": "https://github.com/jyoshiriro/tdc2017-node-orm-sequelize#readme"
+}
