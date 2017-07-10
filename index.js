@@ -40,6 +40,11 @@ Jogador.findAll()
       fs.writeFile('./fotos/'+jogador.nome+'.jpg', jogador.foto, (err) => {
         if (err) throw err;
       });
+
+      if (jogador.id==2) {
+        jogador.nome='ZE BUDUIA no PG $$!';
+        jogador.save();
+      }
     }
   }
 );
